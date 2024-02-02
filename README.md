@@ -1,1 +1,1 @@
-There are two files that communicate with each other a server and a client all written in python
+There are two files(a server and a client) that communicate with each other all written in python
